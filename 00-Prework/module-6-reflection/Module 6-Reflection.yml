@@ -1,0 +1,10 @@
+name: "Module 6: Reflection"
+items:
+  - type: assignment
+    title: "Reflection Activity"
+    body: "reflection_activity.md"
+  - type: subheader
+    title: Resources
+  - type: page
+    title: "6.1.1: Additional Resources"
+    body: "6-dot-1-1-additional-resources.md"

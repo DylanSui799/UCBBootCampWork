@@ -1,0 +1,35 @@
+name: "Module 2: VBA Scripting"
+items:
+  - type: subheader
+    title: Introduction
+  - type: page
+    title: "2: VBA Scripting"
+    body: "00-Introduction/01-introduction.md"
+  - type: page
+    title: "2: Getting Started"
+    body: "00-Introduction/02-getting-started.md"
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "2.1: Fundamentals of Programming With VBA"
+    body: "01-Lessons/01-lesson.md"
+  - type: page
+    title: "2.2: Control Flow With VBA"
+    body: "01-Lessons/02-lesson.md"
+  - type: page
+    title: "2.3: Scripting Practice in VBA"
+    body: "01-Lessons/03-lesson.md"
+  - type: subheader
+    title: Application
+  - type: page
+    title: "2: Further Reading and Helpful Links"
+    body: "02-Application/01-further-reading.md"
+  - type: assignment
+    title: Module 2 Challenge
+    body: "02-Application/02-challenge.md"
+  - type: page
+    title: "2: Career Connection"
+    body: "02-Application/03-career-connection.md"
+  - type: page
+    title: "2: Review"
+    body: "02-Application/04-review.md"
