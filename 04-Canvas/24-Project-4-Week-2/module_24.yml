@@ -1,0 +1,33 @@
+name: "Module 24: Project 4"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "24: Final Project"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "24: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "24.1: Final Project"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "24.2: Final Project"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "24.3: Final Project"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: assignment
+    title: Project 4
+    body: 02-Application/02-project.md
+  - type: page
+    title: "24: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "24: Review"
+    body: 02-Application/04-review.md

@@ -1,0 +1,35 @@
+name: "Module 4: Data Analysis with Python"
+items:
+  - type: subheader
+    title: Introduction
+  - type: page
+    title: "4: Pandas"
+    body: "00-Introduction/01-introduction.md"
+  - type: page
+    title: "4: Getting Started"
+    body: "00-Introduction/02-getting-started.md"
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "4.1: Introduction to Pandas and Jupyter"
+    body: "01-Lessons/01-lesson.md"
+  - type: page
+    title: "4.2: Exploring Pandas"
+    body: "01-Lessons/02-lesson.md"
+  - type: page
+    title: "4.3: Merging and Data Cleaning"
+    body: "01-Lessons/03-lesson.md"
+  - type: subheader
+    title: Application
+  - type: page
+    title: "4: Further Reading and Helpful Links"
+    body: "02-Application/01-further-reading.md"
+  - type: assignment
+    title: Module 4 Challenge
+    body: "02-Application/02-challenge.md"
+  - type: page
+    title: "4: Career Connection"
+    body: "02-Application/03-career-connection.md"
+  - type: page
+    title: "4: Review"
+    body: "02-Application/04-review.md"

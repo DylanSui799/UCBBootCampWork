@@ -1,0 +1,33 @@
+name: "Module 20: Supervised Learning"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "20: Supervised Machine Learning"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "20: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "20.1: Supervised Learning"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "20.2: Classification Models"
+    body: 01-Lessons/02-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "20: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: Module 20 Challenge
+    body: 02-Application/02-challenge.md
+  - type: page
+    title: "20: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "20: Review"
+    body: 02-Application/04-review.md

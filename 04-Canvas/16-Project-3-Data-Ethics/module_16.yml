@@ -1,0 +1,36 @@
+name: "Module 16: Project 3 and Data Ethics"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "16: Project Week and Data Ethics"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "16: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "16.1: Introduction to Data Ethics and Project 3"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "16.2: Project 3 and Data Ethics Day 2"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "16.3: Project 3 and Data Ethics Day 3"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "16: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: page
+    title: "16: Project 3 Overview"
+    body: 02-Application/02-project.md
+  - type: page
+    title: "16: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "16: Review"
+    body: 02-Application/04-review.md

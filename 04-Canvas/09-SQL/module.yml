@@ -1,0 +1,36 @@
+name: "Module 9: SQL"
+items:
+  - type: subheader
+    title: "Introduction"
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "9: SQL"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "9: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: "Lessons"
+  - type: page
+    title: "9.1: Introduction to SQL"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "9.2: Advanced SQL Queries"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "9.3: Data Modeling"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: "Application"
+  - type: page
+    title: "9: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: "Module 9 Challenge"
+    body: 02-Application/02-challenge.md
+  - type: page
+    title: "9: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "9: Review"
+    body: 02-Application/04-review.md

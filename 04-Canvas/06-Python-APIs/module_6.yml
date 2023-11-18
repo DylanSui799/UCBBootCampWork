@@ -1,0 +1,36 @@
+name: "Module 6: Python APIs"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "6: Python APIs"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "6: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "6.1: APIs"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "6.2: Working with Weather and City APIs"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "6.3: APIs and Geospatial Data Visualization"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "6: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: Module 6 Challenge
+    body: 02-Application/02-challenge.md
+  - type: page
+    title: "6: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "6: Review"
+    body: 02-Application/04-review.md

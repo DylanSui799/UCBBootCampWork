@@ -1,0 +1,36 @@
+name: "Module 14: Interactive Visualizations"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "14: Interactive Visualizations"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "14: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "14.1: Introduction to JavaScript Visualizations"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "14.2: Functional Programing for Data Processing"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "14.3: JavaScript with D3.js"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "14: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: Module 14 Challenge
+    body: 02-Application/02-challenge.md
+  - type: page
+    title: "14: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "14: Review"
+    body: 02-Application/04-review.md

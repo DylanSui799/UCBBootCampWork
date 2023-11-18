@@ -1,0 +1,33 @@
+name: "Module 8: Project 1, Week 2"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "8: Project 1, Week 2"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "8: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "8.1: Project 1"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "8.2: Project 1"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "8.3: Project 1"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: assignment
+    title: Project 1
+    body: 02-Application/01-project-1.md
+  - type: page
+    title: "8: Career Connection"
+    body: 02-Application/02-career-connection.md
+  - type: page
+    title: "8: Review"
+    body: 02-Application/03-review.md

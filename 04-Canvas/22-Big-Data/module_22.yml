@@ -1,0 +1,39 @@
+name: "Module 22: Big Data"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "22: Big Data"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "22: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "22.1: Introduction to Big Data"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "22.2: Querying Big Data with PySpark"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "22.3: Optimizing Spark: Storage, Partitioning, and Caching"
+    body: 01-Lessons/03-lesson.md
+  - type: page
+    title: "22.4: Databricks"
+    body: 01-Lessons/04-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "22: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: Module 22 Challenge
+    body: 02-Application/02-challenge.md
+  - type: page
+    title: "22: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "22: Review"
+    body: 02-Application/04-review.md

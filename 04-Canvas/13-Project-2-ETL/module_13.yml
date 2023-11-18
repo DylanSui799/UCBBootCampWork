@@ -1,0 +1,33 @@
+name: "Module 13: Project 2 and ETL"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "13: Project 2"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "13: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "13.1: Extract, Transform, and Load"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "13.2: Transformation and Cleaning with Regular Expressions and ETL Project Work"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "13.3: ETL Project Work"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "13: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: Project 2
+    body: 02-Application/02-project.md
+  - type: page
+    title: "13: Review"
+    body: 02-Application/03-review.md

@@ -1,0 +1,30 @@
+name: "Module 23: Project 4"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "23: Project 4"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "23: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "23.1: Final Projects"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "23.2: Final Projects"
+    body: 01-Lessons/02-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "23: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: page
+    title: "23: Project 4 Overview"
+    body: 02-Application/02-project.md
+  - type: page
+    title: "23: Review"
+    body: 02-Application/03-review.md

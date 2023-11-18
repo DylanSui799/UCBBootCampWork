@@ -1,0 +1,36 @@
+name: "Module 11: Data Collection"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "11: Data Collection"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "11: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "11.1: Scraping HTML"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "11.2: Web Scraping with CSS Selectors"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "11.3: Automated Browsing"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "11: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: assignment
+    title: Module 11 Challenge
+    body: 02-Application/02-challenge.md
+  - type: page
+    title: "11: Career Connection"
+    body: 02-Application/03-career-connection.md
+  - type: page
+    title: "11: Review"
+    body: 02-Application/04-review.md

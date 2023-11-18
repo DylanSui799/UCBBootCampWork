@@ -1,0 +1,29 @@
+name: "Module 17: Project 3"
+items:
+  - type: subheader
+    title: Introduction
+  - type: page
+    title: "17: Project 3"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "17: Getting Started"
+    body: 00-Introduction/02-getting-started.md
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "17.1: Project 3"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "17.2: Project 3"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "17.3: Project 3"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: assignment
+    title: Project 3
+    body: 02-Application/02-project.md
+  - type: page
+    title: "17: Review"
+    body: 02-Application/04-review.md

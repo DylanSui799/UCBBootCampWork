@@ -1,0 +1,33 @@
+name: "Module 7: Project 1, Week 1"
+items:
+  - type: subheader
+    title: Introduction
+    body: 00-Introduction/00-subheader.md
+  - type: page
+    title: "7: Project 1, Week 1"
+    body: 00-Introduction/01-introduction.md
+  - type: page
+    title: "7: Getting Started"
+    body: 00-Introduction/02-getting-started.md  
+  - type: subheader
+    title: Lessons
+  - type: page
+    title: "7.1: Project 1"
+    body: 01-Lessons/01-lesson.md
+  - type: page
+    title: "7.2: Project 1"
+    body: 01-Lessons/02-lesson.md
+  - type: page
+    title: "7.3: Project 1"
+    body: 01-Lessons/03-lesson.md
+  - type: subheader
+    title: Application
+  - type: page
+    title: "7: Further Reading and Helpful Links"
+    body: 02-Application/01-further-reading.md
+  - type: page
+    title: "7: Project 1 Overview"
+    body: 02-Application/02-project.md
+  - type: page
+    title: "7: Review"
+    body: 02-Application/03-review.md
