@@ -10,7 +10,7 @@ The winning tickets are:
 * Second place: 5865187
 * Third place: 2817729
 
-Create a script that will return those lucky winners and print them on the sheet. Make sure to do the following:
+Create a script to return those lucky winners and print them on the sheet. Make sure to do the following:
 
 * For each winner, include the following pieces of information: first name, last name, and the winning number.
 
