@@ -4,9 +4,9 @@ In this second part of this activity, you will combine all the worksheets into o
 
 ## Instructions
 
-* Loop through every worksheet, and select the year contents.
+* Loop through every worksheet and select the year's contents.
 
-* Copy the year contents, and paste them into the `Combined_Data` tab.
+* Copy the year's contents and paste them into the `Combined_Data` tab.
 
 ## References
 

@@ -8,7 +8,7 @@ Using VBA scripts, create an 8-by-8 grid with alternating red and black squares.
 
 ## Hints
 
-* You will need to use nested `for` loops, conditionals, the `MOD` function, and formatting to create the board.
+* To create the board, you must use nested `for` loops, conditionals, the `MOD` function, and formatting.
 
 * This is a tricky problem! Try to pseudocode a plan first.
 

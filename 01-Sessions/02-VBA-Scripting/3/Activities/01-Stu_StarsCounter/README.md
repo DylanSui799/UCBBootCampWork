@@ -1,12 +1,12 @@
 # Star Counter
 
-The dataset you'll be working with for this activity contains 50 rows of customer review data for French and Spanish online learning programs. Columns D through H contain the number of stars each program received as feedback. For example, the first row of the data indicates that a French program received two out of five stars in Monnie Mccasland's review.
+The dataset you'll work with for this activity contains 50 rows of customer review data for French and Spanish online learning programs. Columns D through H contain the number of stars each program received as feedback. For example, the first row of the data indicates that a French program received two out of five stars in Monnie Mccasland's review.
 
-Data stored this way can be difficult to analyze, so you'll be using VBA to convert it to numerical data.
+Data stored this way can be difficult to analyze, so you'll use VBA to convert it to numerical data.
 
 ## Instructions
 
-Create a VBA script that tallies the number of "Full Stars" per row and enters them into the Total column. Starter code is provided, but feel free to start from scratch if you want an extra challenge.
+Create a VBA script that tallies the "Full Stars" number per row and enters them into the Total column. Starter code is provided, but feel free to start from scratch if you want an extra challenge.
 
 ## Bonus
 
@@ -22,7 +22,7 @@ Create two charts:
 
   * You will need to use a nested `for` loop.
 
-  * You will need to create a variable to hold the number of stars and you will need to continually reset this variable at the start of each row.
+  * You will need to create a variable to hold the number of stars, and you will need to reset this variable continually at the start of each row.
 
 —
 
