@@ -11,8 +11,8 @@ csvpath = os.path.join("..", "Resources", "comic_books.csv")
 # Set variable to check if we found the video
 found = False
 
-# Open the CSV
-with open(csvpath, encoding='utf') as csvfile:
+# Open the CSV using the UTF-8 encoding
+with open(csvpath, encoding='UTF-8') as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
 
     # Loop through looking for the video
@@ -22,7 +22,6 @@ with open(csvpath, encoding='utf') as csvfile:
 
             # Set variable to confirm we have found the video
             found = True
-
 
     # If the book is never found, alert the user
     if found is False:

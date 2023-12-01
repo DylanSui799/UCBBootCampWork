@@ -15,6 +15,7 @@ state = []
 # with open(udemy_csv, encoding='utf-8') as csvfile:
 with open(census_csv) as csvfile:
     csvreader = csv.reader(csvfile, delimiter=",")
+
     for row in csvreader:
         # Add place
         place.append(row[0])
@@ -38,13 +39,13 @@ with open(census_csv) as csvfile:
         state.append(split_place[1])
 
 # Zip lists together
-cleaned_csv = zip(place, population, income, poverty_count, poverty_rate, county, state)
+cleaned_csv = list(zip(place, population, income, poverty_count, poverty_rate, county, state))
 
 # Set variable for output file
 output_file = os.path.join("census_final.csv")
 
 #  Open the output file
-with open(output_file, "w") as datafile:
+with open(output_file, "w", newline='') as datafile:
     writer = csv.writer(datafile)
 
     # Write the header row

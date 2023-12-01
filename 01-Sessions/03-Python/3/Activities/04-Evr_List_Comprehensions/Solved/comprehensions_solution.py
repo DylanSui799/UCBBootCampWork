@@ -9,7 +9,7 @@ for letter in fish:
 print(letters)
 
 # List comprehensions provide concise syntax for creating lists
-letters = [x for x in fish]
+letters = [letter for letter in fish]
 
 print(letters)
 
@@ -21,20 +21,19 @@ for letter in fish:
 print(capital_letters)
 
 # List Comprehension for the above
-capital_letters = [L.upper() for L in fish]
+capital_letters = [letter.upper() for letter in fish]
 
 print(capital_letters)
 
 # We can also add conditional logic (if statements) to a list comprehension
 july_temperatures = [87, 85, 92, 79, 106]
 hot_days = []
-
 for temperature in july_temperatures:
     if temperature > 90:
         hot_days.append(temperature)
 print(hot_days)
 
 # List Comprehension with conditional
-hot_days = [temp for temp in july_temperatures if temp > 90]
+hot_days = [temperature for temperature in july_temperatures if temperature > 90]
 
 print(hot_days)
