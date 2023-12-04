@@ -17,7 +17,9 @@ Welcome to the repository for your UCB Data Analytics Boot Camp journey. This re
 
 * [03-Python](01-Sessions/03-Python)
 
-  
+* [04-Data-Analysys-Pandas](01-Sessions/04-Data-Analysys-Pandas)
+
+
 
 ### [02-Homework](02-Homework)
 * [01-Excel](02-Homework/01-Excel)
@@ -26,7 +28,9 @@ Welcome to the repository for your UCB Data Analytics Boot Camp journey. This re
 
 * [03-Python](02-Homework/03-Python)
 
-  
+* [04-Data-Analysys-Pandas](02-Homework/04-Data-Analysys-Pandas)
+
+
 
 ### [03-Projects](03-Projects)
 ### [04-Canvas](04-Canvas)
