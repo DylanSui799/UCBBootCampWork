@@ -32,7 +32,7 @@ actors_list = [
 actors["name"] = actors_list
 
 # Print the first actor
-print(f'{actors["name"][0]}')
+print(f'This is the first actor name: {actors["name"][0]}')
 
 # ---------------------------------------------------------------
 
@@ -66,5 +66,5 @@ film = {
         "United Kingdom": 73
     }
 }
-print(f'{film["title"]} made {film["revenues"]["United States"]}'" million dollars in the US.")
+print(f'The movie {film["title"]} made {film["revenues"]["United States"]}'" million dollars in the US.")
 # ---------------------------------------------------------------
