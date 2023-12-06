@@ -1,0 +1,2 @@
+,Total Unique Authors,Total Unique Publication Countries,Earliest Year,Latest Year
+0,4249,62,1941,2021
