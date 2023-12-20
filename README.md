@@ -19,6 +19,10 @@ Welcome to the repository for your UCB Data Analytics Boot Camp journey. This re
 
 * [04-Data-Analysis-Pandas](01-Sessions/04-Data-Analysis-Pandas)
 
+* [05-Data-Visualization](01-Sessions/05-Data-Visualization)
+
+* [06-Python-APIs](01-Sessions/06-Python-APIs)
+
 
 
 ### [02-Homework](02-Homework)
@@ -29,6 +33,10 @@ Welcome to the repository for your UCB Data Analytics Boot Camp journey. This re
 * [03-Python](02-Homework/03-Python)
 
 * [04-Data-Analysis-Pandas](02-Homework/04-Data-Analysis-Pandas)
+
+* [05-Data-Visualization](02-Homework/05-Data-Visualization)
+
+* [06-Python-APIs](02-Homework/06-Python-APIs)
 
 
 
