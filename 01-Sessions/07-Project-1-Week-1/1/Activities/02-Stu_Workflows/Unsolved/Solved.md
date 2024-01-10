@@ -134,14 +134,14 @@ This is because we created and checked out `plotting_data` while we were on `[m2
   ```bash
   [m5]
   root/
-    |_analyze_data.py 
-    |_clean_data.py 
-    |_helpers.py 
-    |_plot_data.py 
-    |_output/ 
-      |_cleanedRideData.csv
-      |_plots.pdf 
-    |_Resources/ 
+    |_analyze_data.py (main)
+    |_clean_data.py (main)
+    |_helpers.py (plot_data)
+    |_plot_data.py (plot_data)
+    |_output/ (mixed)
+      |_cleanedRideData.csv (main)
+      |_plots.pdf (plot_data)
+    |_Resources/ (main)
       |_rideData.csv
   ```
 

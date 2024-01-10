@@ -8,7 +8,23 @@ Form a hypothesis and null hypothesis for the following questions:
 
 1. Does dark chocolate affect arterial function in healthy individuals?
 
+
+
+
+
+
+
+
 2. Does coffee have anti-aging properties?
+
+
+
+
+
+
+
+
+
 
 - - -
 
