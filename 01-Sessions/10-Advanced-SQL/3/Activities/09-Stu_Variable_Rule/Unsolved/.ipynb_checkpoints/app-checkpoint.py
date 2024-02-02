@@ -1,6 +1,5 @@
 from flask import Flask, jsonify
 
-# Dictionary of Justice League
 justice_league_members = [
     {"superhero": "Aquaman", "real_name": "Arthur Curry"},
     {"superhero": "Batman", "real_name": "Bruce Wayne"},
@@ -16,24 +15,30 @@ justice_league_members = [
 #################################################
 app = Flask(__name__)
 
+
 #################################################
 # Flask Routes
 #################################################
 
-@app.route("/")
-def welcome():
-    print("This is my homepage") 
-    return(
-        f"Welcome to the Justice League API!<br/>"
-        f"Available Routes:<br/>"
-        f"/api/justice_league"
-    )
+@app.route("/api/v1.0/justice-league")
+def justice_league():
+    """Return the justice league data as json"""
 
-@app.route("/api/justice_league")
-def justice():
-    print("This is the info for Justice league") 
     return jsonify(justice_league_members)
 
+
+@app.route("/")
+def welcome():
+    return (
+        f"Welcome to the Justice League API!<br/>"
+        f"Available Routes:<br/>"
+        f"/api/v1.0/justice-league<br/>"
+        f"/api/v1.0/justice-league/superhero/batman"
+    )
+
+
+"""TODO: Handle API route with variable path to allow getting info
+for a specific character based on their 'superhero' name """
 
 
 if __name__ == "__main__":
