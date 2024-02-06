@@ -23,6 +23,16 @@ Welcome to the repository for your UCB Data Analytics Boot Camp journey. This re
 
 * [06-Python-APIs](01-Sessions/06-Python-APIs)
 
+* [07-Project-1-Week-1](01-Sessions/07-Project-1-Week-1)
+
+* [08-Project-1-Week-2](01-Sessions/08-Project-1-Week-2)
+
+* [09-SQL](01-Sessions/09-SQL)
+
+* [10-Advanced-SQL](01-Sessions/10-Advanced-SQL)
+
+* [11-Data-Collection](01-Sessions/11-Data-Collection)
+
 
 
 ### [02-Homework](02-Homework)
@@ -37,6 +47,12 @@ Welcome to the repository for your UCB Data Analytics Boot Camp journey. This re
 * [05-Data-Visualization](02-Homework/05-Data-Visualization)
 
 * [06-Python-APIs](02-Homework/06-Python-APIs)
+
+* [09-SQL](02-Homework/09-SQL)
+
+* [10-Advanced-SQL](02-Homework/10-Advanced-SQL)
+
+* [11-Data-Collection](02-Homework/11-Data-Collection)
 
 
 
