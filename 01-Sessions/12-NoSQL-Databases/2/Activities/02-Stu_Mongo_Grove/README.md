@@ -1,4 +1,4 @@
-# Mongo Grove
+s# Mongo Grove
 
 In this activity, you will use Jupyter Notebook to test out code that you could then use to build a command-line interface application for the produce department of a supermarket by using PyMongo to enable Python to interact with MongoDB.
 
